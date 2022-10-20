@@ -66,7 +66,7 @@ slide-transition: true
 
 # [fit] \(Contexte) Du mainframe au smartphone
 
-![inline fit](images/mainframe.png) ![inline fit](images/smartphone.png)
+![inline fit](images/mainframe.jpg) ![inline fit](images/smartphone.png)
 
 ---
 
