@@ -140,9 +140,9 @@ Les conditions d'utilisation d'un logiciel sont régies par sa *licence*, qui re
 
 La *licence* est un contrat de *mise à disposition* du logiciel (et non de cession de droits), qui est réputé "signé" par l'utilisateur lors de l'installation du logiciel.
 
-Alors que le droit d'auteur est traditionnelles "restrictif", les licences libres visent à garantir des droits d'utilisation et de modification du logiciel. ("Hack" juridique).
+Alors que le droit d'auteur est traditionnellement "restrictif", les licences libres visent à garantir des droits d'utilisation et de modification du logiciel. (= "Hack" juridique).
 
-Par définition, un logiciel est "libre" ssi sa licence répond à des critères acceptés par la communauté du logiciel libre.
+Par définition, un logiciel sera dit "libre" ssi sa licence répond à des critères acceptés par la communauté du logiciel libre.
 
 ---
 
@@ -199,7 +199,7 @@ Jul. 1998: Linux Mandrake (Gael Duval)
 Aou. 1998: Linus Torvalds fait la couverture de Forbes Magazine
 Oct. 1998: IBM porte Apache sur les AS/400
 Oct. 1998: Intel et Netscape investissent dans Red Hat
-Nov. 1998: “Halloween” documents (MS entre en guerre contre Linux)
+Nov. 1998: “Halloween” documents (Microsoft entre en guerre contre Linux)
 
 ---
 
@@ -331,7 +331,7 @@ Organisations à but non lucratif qui soutiennent un ou plusieurs projets open s
 - des processus et des outils de collaboration et de gouvernance
 - des moyens techniques, humains et/ou financiers
 
-Elles peuvent être financées par les cotisations de leurs membres et des dons (qui peuvent parfois être défiscalisés), des subventions publics, les revenus de certains services (ex: conférences)... 
+Elles peuvent être financées par les cotisations de leurs membres et des dons (qui peuvent parfois être défiscalisés), des subventions publiques, les revenus de certains services (ex: conférences)... 
 
 ---
 
@@ -478,7 +478,7 @@ Beaucoup de grandes organisations (grands groupes, administrations, universités
 
 Emerge à présent la nécessité de mettre en place des structures organisationnelles dédiées à la gestion de ces activités: les OSPO (Open Source Program Offices).
 
-C'est le cas, depuis maintenant quelques années, avec une montée en puissance graduelle, des administrations françaises et européennes.
+C'est le cas, depuis maintenant quelques années, avec une montée en puissance graduelle des administrations françaises et européennes.
 
 ---
 
@@ -558,7 +558,7 @@ A ce stade, très peu de formations dédiées ou de cours spécifiques sont prop
 
 ---
 
-# Questions ouvertes
+# Questions et sujets ouverts
 
 - Libre et GAFAM ?
 - En particulier libre et cloud ?
@@ -566,6 +566,7 @@ A ce stade, très peu de formations dédiées ou de cours spécifiques sont prop
 - Libre et (biens) communs numériques ?
 - Inclusivité (notamment participation des femmes) ?
 - Libre et numérique éthique / responsable ?
+- Auto-hébergement, fédivers...
 
 ---
 
