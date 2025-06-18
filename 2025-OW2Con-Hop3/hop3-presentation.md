@@ -89,6 +89,10 @@ The “Linux Distribution” model invented in the 90s works well for infrastruc
 
 ---
 
+![bg w:95%](images/lifecycle.png)
+
+---
+
 ## What is Hop3: Today & Tomorrow
 
 ![bg opacity:.3](images/cityscape.png)
@@ -96,13 +100,18 @@ The “Linux Distribution” model invented in the 90s works well for infrastruc
 - **Today (Q2 2025):**
     - Single-server PaaS for F/OSS web apps.
     - `git push` deployment, `hop3.toml` declarative configuration.
-    - OCI image builds (Docker concepts, flexible runtime) and "virtual environment" builds (more leightweight)
+    - OCI image builds (Docker concepts, flexible runtime) and "virtual environment" builds (more lightweight)
     - Growing catalog of easily deployable F/OSS applications.
 - **Short-Term Roadmap (Q3-Q4 2025):**
     - Comprehensive multi-server, distributed application orchestration.
     - Advanced security, user management (SSO/RBAC), rich Web UI.
     - A vibrant application marketplace & active global community.
     - (Optional) Nix Integration: For Hop3 itself, app builders, reproducible environments, isolation.
+
+---
+
+![bg w:95%](images/concept-map.png)
+
 
 ---
 
@@ -214,6 +223,18 @@ The “Linux Distribution” model invented in the 90s works well for infrastruc
 
 ---
 
+## Future Vision: Expanding Hop3
+
+![bg left:40% opacity:70%](images/tree.png)
+
+- **M3 / V1 MVP:** Full core platform services.
+- **Runtime Integration:** Nix, SlapOS, Docker Swarm, Kubernetes, Nomad...
+- **Scaling & Placement:** Vertical scaling, workload placement, multi-server.
+- **Enhanced Security:** Firewall, WAF, better isolation (incl. VMs)
+- **Broader Support:** Containers/VMs, Unified Login (LDAP/IAM), More base OSes.
+
+---
+
 ## Project Backing & Status
 
 ![bg right:40% opacity:70%](./images/gold.png)
@@ -270,7 +291,7 @@ The “Linux Distribution” model invented in the 90s works well for infrastruc
     - **Secrets Management:** Secure handling of sensitive credentials.
 - **Network & Application Security:**
     - **Firewall & WAF:** Network-level firewall and Web Application Firewall (WAF) for ingress/egress control and threat prevention.
-    - **Data Encryption at Rest:** (Planned) For sensitive application data and backups.
+    - **Data Encryption at Rest:** For sensitive application data and backups.
 - **Operational Security & Resilience:**
     - **Continuous Monitoring & Alerting:** For security events and anomalies.
 
@@ -289,18 +310,6 @@ The “Linux Distribution” model invented in the 90s works well for infrastruc
 
 ---
 
-## Future Vision: Expanding Hop3
-
-![bg left:40% opacity:70%](https://via.placeholder.com/800x600/DAA520/333333?text=Illustration:+Growing+Tree+or+Expanding+Network)
-
-- **M3 / V1 MVP:** Full core platform services.
-- **Runtime Integration:** Nix (deeply), Kubernetes, Nomad.
-- **Scaling & Placement:** Vertical scaling, workload placement, multi-server.
-- **Enhanced Security:** Firewall, WAF, better isolation.
-- **Broader Support:** Containers/VMs, Unified Login (LDAP/IAM), More OS.
-
----
-
 ## Join Us! Open Source & Community
 
 ![bg right:35% opacity:80%](./images/hackathon.jpg)
@@ -308,7 +317,7 @@ The “Linux Distribution” model invented in the 90s works well for infrastruc
 - **Fundamentally Open Source!**
 - **Contributions Welcome:** Code, feedback, ideas.
 - **Engage:**
-    - Documentation, presentations (FOSDEM, PyCon, NixCon, etc.)
+    - Documentation, presentations (FOSDEM, PyCon, OSXP, OW2Con, etc.)
     - Website/blog, social media
     - Workshops, user groups
 - **Hosted:** SourceHut & GitHub
@@ -346,12 +355,6 @@ The “Linux Distribution” model invented in the 90s works well for infrastruc
 </div>
 </div>
 
-<!--
-Speaker notes:
-Here are the key links to find the project, documentation, and ways to contribute.
-We encourage you to explore these resources.
--->
-
 ---
 
 <!-- _class: invert -->
@@ -367,19 +370,10 @@ We encourage you to explore these resources.
 ![bg right:45% opacity:70%](./images/target.png)
 
 - **Viable Self-Hosting:** Open Source PaaS makes it accessible.
-- **Digital Sovereignty:** Empowering users with infrastructure control.
-    - (Stefane Fermigier writing a book on this topic!)
+- **Digital Sovereignty:** Empowering users and organisations with infrastructure control.
 - **F/OSS Ecosystem:** Simplifies deployment, fosters collaboration.
 - **Champions:** Sustainability & Open Standards.
-    - (Abilian's ethical principles, NGI Drivers for Change)
-
-<!--
-Speaker notes:
-Hop3 makes self-hosting with an Open Source PaaS a viable option for many use cases.
-It empowers users to control their digital infrastructure, promoting digital sovereignty – a topic I'm passionate about and writing a book on.
-It has potential impact on the F/OSS ecosystem by simplifying deployment and fostering a collaborative environment.
-Hop3 champions sustainability and open standards, aligned with Abilian's ethical principles and NGI Drivers for Change.
--->
+    - Cf. NGI's vision for an "Internet of Human Values - Resilient. Trustworthy. Sustainable."
 
 ---
 
@@ -471,6 +465,7 @@ Financed, in part, by:
 - https://www.freepik.com/free-photo/businessman-looking-wavy-road_961566.htm
 - https://www.freepik.com/free-vector/architecture-background-design_1004441.htm
 - https://www.freepik.com/free-photo/wood-block-tower-game-children-parquet-background_27000780.htm
+- https://www.freepik.com/free-vector/small-plant-design_894808.htm
 
 - Image of EU OS hackathon used for illustration purpose only.
 
