@@ -45,7 +45,7 @@ style: |
 # **Hop3: Empowering Digital Sovereignty**
 ## An Open-Source Solution for Application Deployment
 
-### June 2025
+### OW2Con, Paris, June 2025
 #### Stefane Fermigier (PhD), CEO, Abilian
 
 [//]: # (![bg opacity:.2]&#40;https://via.placeholder.com/1200x800/003366/FFFFFF?text=Tech+Background&#41;)
@@ -347,7 +347,7 @@ The “Linux Distribution” model invented in the 90s works well for infrastruc
     [www.abilian.com](https://www.abilian.com)
 
 - **Hop3:**
-    [hop.cloud](https://hop3.cloud/) (coming soon!)
+    [hop3.cloud](https://hop3.cloud/)
 
 - **NGI0 Commons project:**
     [nlnet.nl/project/Hop3-Nixified/](https://nlnet.nl/project/Hop3-Nixified/)
