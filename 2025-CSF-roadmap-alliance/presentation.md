@@ -45,11 +45,12 @@ style: |
 <!--
 class:
  - lead
+header: ""
 -->
 
 ![bg left:35%](./images/report.png)
 
-### ***The Open Source Way to EU Digital <br>Sovereignty & Competitiveness***
+# ***The Open Source Way to <br>EU Digital Sovereignty &<br> Competitiveness***
 
 ### Une feuille de route pour l'action
 
@@ -71,7 +72,7 @@ class:
 
 ---
 
-# **Un malentendu courant**
+# **Une précision nécessaire**
 
 "L'Europe a reconnu l'impératif d'atteindre une véritable souveraineté numérique et technologique [...] Cela nécessite non seulement le contrôle des données, mais aussi le contrôle des technologies sous-jacentes - matériel et logiciel - qui traitent, stockent et gèrent ces données." 
 -- The Open Source Way to EU Digital Sovereignty & Competitiveness
@@ -93,7 +94,7 @@ Plus qu'une simple question de coût, l'Open Source est un fondement de la **sou
 -   **Autonomie & réversibilité**
     Échapper à l'enfermement propriétaire (*vendor lock-in*). La maîtrise du code garantit la liberté d'agir, d'adapter et d'innover. **"Rester par choix, non par contrainte"**.
 -   **Collaboration & innovation**
-    Mutualiser les efforts pour construire les briques technologiques de pointe que personne ne pourrait développer seul.
+    Mutualiser les efforts pour construire les briques technologiques de pointe que personne ne pourrait développer seul. -->
 
 ---
 
@@ -190,7 +191,7 @@ La souveraineté numérique est un impératif stratégique pour l'Europe, porté
 
 ---
 
-## **Gap 2 : Financement précaire & manque de Viabilité**
+## **Gap 2 : Viabilité financière**
 
 **Le problème** : Beaucoup de projets Open Source critiques dépendent d'un financement sporadique et du bénévolat, ce qui les rend instables et non compétitifs.
 
@@ -243,8 +244,6 @@ La souveraineté numérique est un impératif stratégique pour l'Europe, porté
 
 2.  **Privilégier les structures de droit européen**
     -   Se regrouper autour de structures basées en Europe, **garantissant un contrôle et un alignement** sur le long terme.
-
----
 
 ## **Critères "LOTEC" pour une souveraineté effective**
 
