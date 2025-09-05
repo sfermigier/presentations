@@ -245,6 +245,8 @@ La souveraineté numérique est un impératif stratégique pour l'Europe, porté
 2.  **Privilégier les structures de droit européen**
     -   Se regrouper autour de structures basées en Europe, **garantissant un contrôle et un alignement** sur le long terme.
 
+---
+
 ## **Critères "LOTEC" pour une souveraineté effective**
 
 Travail en cours au sein de l'Alliance pour un **cadre d'évaluation** multi-dimensionnel. Mes propositions à ce stade:
