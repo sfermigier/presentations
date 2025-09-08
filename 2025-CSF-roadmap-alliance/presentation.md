@@ -74,7 +74,7 @@ header: ""
 
 # **Une précision nécessaire**
 
-"L'Europe a reconnu l'impératif d'atteindre une véritable souveraineté numérique et technologique [...] Cela nécessite non seulement le contrôle des données, mais aussi le contrôle des technologies sous-jacentes - matériel et logiciel - qui traitent, stockent et gèrent ces données." 
+"L'Europe a reconnu l'impératif d'atteindre une véritable souveraineté numérique et technologique [...] Cela nécessite non seulement le contrôle des données, mais aussi le contrôle des technologies sous-jacentes - matériel et logiciel - qui traitent, stockent et gèrent ces données."
 -- The Open Source Way to EU Digital Sovereignty & Competitiveness
 
 Pour simplifier:
@@ -94,7 +94,7 @@ Plus qu'une simple question de coût, l'Open Source est un fondement de la **sou
 -   **Autonomie & réversibilité**
     Échapper à l'enfermement propriétaire (*vendor lock-in*). La maîtrise du code garantit la liberté d'agir, d'adapter et d'innover. **"Rester par choix, non par contrainte"**.
 -   **Collaboration & innovation**
-    Mutualiser les efforts pour construire les briques technologiques de pointe que personne ne pourrait développer seul. -->
+    Mutualiser les efforts pour construire les briques technologiques de pointe que personne ne pourrait développer seul.
 
 ---
 
@@ -270,3 +270,5 @@ Travail en cours au sein de l'Alliance pour un **cadre d'évaluation** multi-dim
 # **Conclusion**
 
 La souveraineté numérique européenne ne pourra se construire que par l'action collective de notre écosystème. **L'Open Source est notre meilleur atout**.
+
+Lire le rapport complet: <https://ec.europa.eu/newsroom/dae/redirection/document/117980>
