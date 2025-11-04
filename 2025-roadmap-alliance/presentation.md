@@ -80,8 +80,11 @@ header: ""
 - Open Source entrepreneur since 2000 (Nuxeo -> Abilian)
 - Co-chair of CNLL, APELL
 - Co-founder of EuroStack Initiative Foundation
+- Member of the European Alliance for Industrial Data, Edge and Cloud, and co-author of the report
 
 ---
+
+![bg right:35%](./images/asteres.png)
 
 ## **The Strategic Context: A Digital Crossroads**
 
@@ -89,6 +92,7 @@ Europe's digital infrastructure is increasingly built on technologies developed 
 
 This dependency creates significant risks for our:
 -   **Economic Autonomy**: Vulnerability to non-EU market dominance.
+  - *80% of total spending on cloud software and services for business use in Europe went to US companies, representing a volume of €265 billion (source: Asteres Report)*
 -   **Data Security**: Exposure to extraterritorial laws like the FISA and CLOUD Act, exposing personal information (cf. GDPR) and strategic / corporate information and secrets.
 -   **Strategic Independence**: A diminished ability to innovate according to our own values.
 
