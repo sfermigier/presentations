@@ -177,7 +177,7 @@ This diagnosis identified **5 critical "gaps"**. From these gaps emerged **70 co
 
 ## **The Blueprint: A 5-Pillar Strategy to Bridge the Gaps**
 
-Our 70 proposals are organized into a clear, actionable strategy built on five pillars. This is our roadmap for a sovereign digital future.
+Our 70 proposals are organized into a clear, actionable strategy built on five pillars. This is our roadmap for a sovereign digital future for Europe.
 
 1.  **Technological Development**
 2.  **Skills Development**
@@ -248,7 +248,7 @@ To make policies like "European Preference" effective, we must first have a clea
 <div>
 <ul>
 <li><b>Legal Framework</b><br>Uses OSI-approved licenses compatible with EU law.</li>
-<li><b>Data Handling</b><br>Prioritizes data processing and residency within the EU, fully GDPR compliant.</li>
+<li><b>Data Handling</b><br>Prioritizes data processing and residency within the EU, in compliance with EU laws and directives (like GDPR, but non only).</li>
 <li><b>Ecosystem Contribution</b><br>The maintaining organization actively contributes back to the European ecosystem.</li>
 </ul>
 </div>
@@ -275,10 +275,10 @@ It transforms public procurement from a simple purchase into a strategic investm
 **Objective**: To build a robust and sustainable funding ecosystem for the growth of European Open Source.
 
 **Emblematic Actions**:
-1.  **Launch a European OS Investment Platform (EOSIP)**
-    Create a one-stop-shop portal to connect European Open Source projects with grants, venture capital, and other funding opportunities.
-2.  **Build a Strong "European Open Source" Brand**
+1.  **Build a Strong "European Open Source" Brand**
     Develop a global brand that signifies quality, security, and alignment with European values, helping our solutions stand out.
+2.  **Launch a European OS Investment Platform (EOSIP)**
+    Create a one-stop-shop portal to connect European Open Source projects with grants, venture capital, and other funding opportunities.
 3.  **Establish European Open Source Accelerators**
     Launch dedicated incubators to help promising projects scale up and compete globally.
 
