@@ -226,7 +226,7 @@ To make policies like "European Preference" effective, we must first have a clea
 <ul>
 <li><b>Legal Framework</b><br>Uses OSI-approved licenses compatible with EU law.</li>
 <li><b>Data Handling</b><br>Prioritizes data processing and residency within the EU, fully GDPR compliant.</li>
-<li><b>Ecosystem Contribution</b><br>The maintaining organization actively contributes back to the European ecosystem.</li>
+<li><b>Ecosystem Contribution</b><br>The maintaining organization actively contributes back to the EU ecosystem.</li>
 </ul>
 </div>
 </div>
@@ -235,10 +235,10 @@ To make policies like "European Preference" effective, we must first have a clea
 
 ## **From Definition to Action: A New Procurement Principle**
 
-Building on this definition, the report proposes a powerful new policy for public spending:
+Building on this definition, we propose a powerful new policy for public spending:
 
 <div style="border: solid 2px; padding: 15px; margin-top: 24px; text-align: center;">
-<h2>Public Money, Public Code, <br>Open Source First, <u>European Preference</u></h2>
+<h2>Public Money, Public Code, <br><u>Open Source First, European Preference</u></h2>
 </div>
 
 This extends the well-known "Public Money, Public Code" initiative. The **"European Preference"** clause ensures that taxpayer-funded software not only remains open, but also **originates from and benefits the European Open Source ecosystem**.
