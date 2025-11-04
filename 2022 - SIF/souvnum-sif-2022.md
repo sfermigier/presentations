@@ -45,6 +45,15 @@ slide-transition: true
 
 ---
 
+# Résolution du Sénat
+
+"Considérant que la souveraineté numérique dépend tant de la maîtrise des infrastructures que de la maîtrise des applications et compétences numériques ;
+Considérant qu’une approche par la régulation, bien qu’utile, est insuffisante pour assurer cette souveraineté numérique de l’Union européenne et pour en faire une puissance numérique ;"
+
+-- Résolution du Sénat français sur le programme d’action numérique de l’Union européenne à l’horizon 2030
+
+---
+
 # Rapports parlementaires
 
 - Morin-Desailly: 2014
