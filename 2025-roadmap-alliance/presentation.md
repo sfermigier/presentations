@@ -7,7 +7,7 @@ header: "The Open Source Way to Digital Sovereignty"
 #footer: "© Abilian 2025 | Stefane Fermigier | Page %p / %P"
 style: |
   section {
-    font-size: 28px;
+    font-size: 24px;
   }
   .columns {
     display: grid;
@@ -57,7 +57,7 @@ header: ""
 
 # **The Open Source Way to <br>EU Digital Sovereignty &<br> Competitiveness**
 
-### A Detailed Roadmap for Action
+### A Strategic Roadmap for Action
 
 <div style="text-align: center; margin-top: 32px;">
 <i>Based on the July 2025 Report by the European Alliance for Industrial Data, Edge and Cloud</i>
@@ -65,130 +65,122 @@ header: ""
 
 ---
 
-# **Part 1: The Strategic Imperative**
+<!--
+class:
+ - lead
+header: ""
+-->
 
-## Why Europe Must Act Now
+![bg left:35%](./images/moi.jpg)
 
-This section outlines the foundational concepts and the urgent drivers behind the strategic push for digital sovereignty, powered by Open Source.
+# **Who am I?**
+
+- Linux user since 1991
+- Open Source advocate since 1998
+- Open Source entrepreneur since 2000 (Nuxeo -> Abilian)
+- Co-chair of CNLL, APELL
+- Co-founder of EuroStack Initiative Foundation
 
 ---
 
-## **What is Digital Sovereignty?**
+## **The Strategic Context: A Digital Crossroads**
 
-**"The capacity for autonomous assessment, decision-making, and action in the digital space.**"
+Europe's digital infrastructure is increasingly built on technologies developed and controlled outside our borders. What was considered by many a merely technical issue has now become a major strategic vulnerability.
 
-To simplify, it is a combination of two key elements:
+This dependency creates significant risks for our:
+-   **Economic Autonomy**: Vulnerability to non-EU market dominance.
+-   **Data Security**: Exposure to extraterritorial laws like the FISA and CLOUD Act, exposing personal information (cf. GDPR) and strategic / corporate information and secrets.
+-   **Strategic Independence**: A diminished ability to innovate according to our own values.
+
+---
+
+## **Defining Our Goal: Effective Digital Sovereignty**
+
+To be truly sovereign, we need more than just control over data. The report starts from a seimple and clear formula:
 
 <div style="border: solid 1px; padding: 15px; margin-top: 24px; text-align: center;">
 <b>Digital Sovereignty = Data Sovereignty + Technological Autonomy</b>
 </div>
 
-This means not only controlling our data but also the underlying hardware and software that manages it. This autonomy is essential for safeguarding Europe's operational independence.
+This means we must control the entire stack—the underlying hardware and software that manages our data. This technological independence is the key to effective sovereignty.
 
 ---
 
-## **Four Key Motivations Driving the Roadmap**
+## **The Enabler: Why Open Source is the Cornerstone**
 
-The report is driven by four urgent motivators for Europe:
+Initially (1998-2010) consider mostly as a cheaper alternative, Open Source has become for the last 15 years a fundamental pillar of the technological autonomy Europe seeks.
 
-1.  **Digital & Technological Sovereignty**
-    Asserting control over our digital infrastructure and reducing reliance on non-EU technologies.
-
-2.  **Data Security & Compliance**
-    Safeguarding data and privacy with transparent, auditable solutions that comply with European laws like GDPR and the NIS Directive.
-
-3.  **Innovation & Economic Resilience**
-    Fostering a competitive and innovative market by lowering entry barriers for SMEs and promoting collaborative development.
-
-4.  **Environmental Sustainability**
-    Reducing the environmental footprint of digital infrastructure, in line with the European Green Deal.
-
----
-
-## **Open Source: The Cornerstone of Sovereignty**
-
-More than a matter of cost, Open Source is a fundamental enabler of technological sovereignty.
-
--   **Transparency & Security**
-    The ability to audit the code allows for collective verification, finding and fixing vulnerabilities, and ensuring there are no hidden backdoors.
 -   **Autonomy & Reversibility**
-    It offers an escape from vendor lock-in. Full control over the code guarantees the freedom to adapt, modify, and innovate independently.
+    It is the only real escape from vendor lock-in. Full control over the code guarantees the freedom to innovate independently.
 -   **Collaboration & Innovation**
-    Open Source allows for pooling resources to build cutting-edge technologies that no single entity could develop alone, fostering a vibrant ecosystem.
+    It allows us to pool resources to build cutting-edge technologies that no single entity could develop alone.
+-   **Transparency & Security**
+    The ability to audit code allows for collective verification, vulnerability fixing, and ensures no hidden backdoors.
 
 ---
 
-# **Part 2: The Landscape & The Gaps**
+## **From Diagnosis to a Blueprint for Action**
 
-## Europe's Current Position and Critical Challenges
+To build a credible plan, we needed a deep diagnosis. Our analysis of Europe's digital landscape revealed a fundamental disconnect between our ambition for sovereignty and the reality of our ecosystem.
 
-This section assesses the current European Open Source ecosystem and identifies the five major obstacles hindering the achievement of digital sovereignty.
-
----
-
-## **A Shared, Yet Challenged, European Ambition**
-
-Digital sovereignty is a strategic goal for Europe, supported by key stakeholders, but significant challenges remain.
-
-<div class="columns">
-<div>
-  <b>Key Initiatives:</b>
-  <ul>
-    <li><b>European Alliance for Industrial Data, Edge and Cloud</b>: A coalition of industry, Member States, and experts.</li>
-    <li><b>Next Generation Internet (NGI)</b>: A European Commission program to build a more human-centric internet.</li>
-    <li><b>IPCEI-CIS</b>: An "Important Project of Common European Interest" for Cloud Infrastructure and Services.</li>
-  </ul>
-</div>
-<div>
-  <b>The Reality:</b>
-  <p>Despite these efforts, Europe's digital economy is heavily reliant on non-European entities. The IT market is still largely dominated by non-EU proprietary technologies, especially from US-based hyperscalers.</p>
-</div>
-</div>
+This diagnosis identified **5 critical "gaps"**. From these gaps emerged **70 concrete proposals**, each designed to address a specific weakness and build a stronger whole.
 
 ---
 
-![bg right:35%](./images/report.png)
+## **Gap 1: Standards & Interoperability**
+### The Challenge of "Open Washing"
 
-## **The 5 Critical Gaps Holding Europe Back**
+**The Problem**: Our ecosystem is fragmented by "standards" that are not genuinely designed to promote interoperability and reversibility, promoted by non-EU players to maintain dominance. This creates vendor lock-in and stifles innovation.
 
-The report identifies five interconnected gaps that prevent the full realization of a sovereign digital infrastructure.
-
-1.  **Lack of open standards and interoperability**
-2.  **Under-investment in critical software components**
-3.  **Barriers to adoption (market, visibility)**
-4.  **Shortage of talent and training**
-5.  **Project governance often outside the EU**
-
-Addressing these gaps requires the **70 concrete actions** proposed in the roadmap.
+**The Consequence**: A lack of genuine, enforceable interoperability that keeps Europe dependent and divided. Cf. the battle for EIFv2 (2009).
 
 ---
 
-# **Part 3: The Roadmap for Action**
+## **Gap 2: Financial Viability**
+### The Peril of Instability
 
-## The 5 Strategic Pillars and Key Proposals
+**The Problem**: Many critical European Open Source projects and business rely on sporadic funding, time-limited contracts and volunteer work. They lack resources for security audits, long-term maintenance, whole product development and professional support.
 
-This section details the core of the roadmap: a five-pillar strategy with actionable recommendations to build a sovereign, resilient, and competitive digital Europe.
+**The Consequence**: Key infrastructure components are unstable, uncompetitive, and at risk of being abandoned or acquired by non-EU interests.
 
 ---
 
-## **The 5 Strategic Pillars of the Roadmap**
+## **Gap 3: Market Visibility & Adoption**
+### The Fight for Recognition
 
-The 70 proposals are organized across five pillars, forming a comprehensive strategy for action:
+**The Problem**: European solutions are often invisible, drowned out by the dominant marketing narratives of non-EU giants who sow doubt about the viability of Open Source.
 
-- **Pillar 1: Technological Development**
-  Build a solid foundation on open, interoperable standards.
+**The Consequence**: Public and private sectors alike default to non-sovereign solutions, not because they are better, but because they are better known.
 
-- **Pillar 2: Skills Development**
-  Train the talent needed to build and maintain the ecosystem.
+---
 
-- **Pillar 3: Public Procurement**
-  Use public purchasing power as a strategic lever for change.
+## **Gap 4: Talent & Skills Shortage**
+### The Human Capital Deficit
 
-- **Pillar 4: Growth and Investment**
-  Create a sustainable funding environment for European Open Source.
+**The Problem**: The lack of expertise in sovereign Open Source technologies slows down innovation and implementation.
 
-- **Pillar 5: Governance**
-  Ensure the long-term sustainability and European control of critical projects.
+**The Consequence**: A persistent skills gap makes us reliant on foreign expertise, directly undermining our goal of technological autonomy.
+
+---
+
+## **Gap 5: Governance & Influence**
+### The Imbalance of Power
+
+**The Problem**: Europe contributes a vast amount of code to global Open Source projects but exercises little control over their strategic direction, which is often decided in foundations based outside the EU.
+
+**The Consequence**: Key technological dependencies remain, as the roadmaps of critical software are not aligned with European strategic interests.
+
+---
+
+## **The Blueprint: A 5-Pillar Strategy to Bridge the Gaps**
+
+Our 70 proposals are organized into a clear, actionable strategy built on five pillars. This is our roadmap for a sovereign digital future.
+
+1.  **Technological Development**
+2.  **Skills Development**
+3.  **Public Procurement**
+4.  **Growth and Investment**
+5.  **Governance**
 
 ---
 
@@ -196,13 +188,13 @@ The 70 proposals are organized across five pillars, forming a comprehensive stra
 
 **Objective**: To build a resilient technical foundation based on truly open standards and well-supported European projects.
 
-**Key Actions**:
-1.  **Establish & Enforce TRULY Open Standards**
-    -   Develop European-governed specifications and reference architectures to fight "open washing" and ensure genuine interoperability.
-2.  **Fund Critical Open Source Projects**
-    -   Create a **"European Open Source Sovereignty Fund" (EOSSF)** to provide stable, long-term funding for essential infrastructure components.
-3.  **Promote EU Reference Implementations**
-    -   Develop sector-specific "playbooks" and large-scale demonstration projects (e.g., in healthcare, public administration) to showcase European excellence.
+**Emblematic Actions**:
+1.  **Create a European Open Source Sovereignty Fund (EOSSF)**
+    To provide stable, long-term funding for the core infrastructure we all depend on.
+2.  **Define and Enforce TRULY Open Standards**
+    Develop European-governed specifications to fight "open washing" and ensure genuine interoperability.
+3.  **Launch Large-Scale Demonstration Projects**
+    Co-invest in pilot projects that prove the technical and economic viability of sovereign stacks in key sectors.
 
 ---
 
@@ -210,13 +202,13 @@ The 70 proposals are organized across five pillars, forming a comprehensive stra
 
 **Objective**: To bridge the talent gap by fostering a skilled workforce proficient in European Open Source technologies.
 
-**Key Actions**:
-1.  **Launch Targeted Training & Certifications**
-    -   Create industry-recognized certifications for European Open Source technologies, focusing on practical, hands-on skills.
-2.  **Invest in Reskilling & Upskilling**
-    -   Fund programs to help IT professionals transition to roles in the European Open Source ecosystem.
-3.  **Integrate Open Source into Education**
-    -   Incorporate Open Source principles into STEM curricula and establish "Centres of Excellence" at universities.
+**Emblematic Actions**:
+1.  **Establish European "Centres of Excellence"**
+    Support universities in becoming hubs for advanced research, training, and innovation in sovereign open source technologies.
+2.  **Launch Pan-European Certifications**
+    Create industry-recognized certifications for European Open Source skills, making them a gold standard for professionals and employers.
+3.  **Integrate Open Source into STEM Curricula**
+    Embed open source principles and digital sovereignty concepts into education from secondary school onwards.
 
 ---
 
@@ -224,13 +216,52 @@ The 70 proposals are organized across five pillars, forming a comprehensive stra
 
 **Objective**: To leverage public spending as a powerful catalyst for the adoption of European Open Source solutions.
 
-**Key Actions**:
-1.  **Adopt "Public Money, Public Code, European Preference"**
-    -   Mandate that taxpayer-funded software originates from and benefits the European Open Source ecosystem.
-2.  **Develop Clear Procurement Guidelines**
-    -   Provide resources for public bodies to evaluate and select sovereign Open Source solutions, focusing on total cost of ownership (TCO) and avoiding vendor lock-in.
-3.  **Use Pre-Commercial Procurement (PCP)**
-    -   Co-develop innovative solutions with European SMEs to address specific public sector needs.
+**Emblematic Actions**:
+1.  **Mandate "Public Money, Public Code, European Preference"**
+    Adopt this powerful principle to ensure that taxpayer-funded software originates from, and benefits, the European ecosystem.
+2.  **Create a Public Directory of Sovereign Solutions**
+    Build a trusted, curated repository of recommended European Open Source solutions to guide public procurement officers.
+3.  **Define Clear Criteria for "European Open Source"**
+    Establish a robust definition to prevent misuse and ensure public funds support genuinely sovereign projects.
+
+---
+
+## **A Cornerstone Proposal: Defining "European Open Source"**
+
+To make policies like "European Preference" effective, we must first have a clear, robust definition to prevent "open washing".
+
+**Proposed Criteria for a "European Open Source" Solution:**
+
+<div class="columns">
+<div>
+<ul>
+<li><b>Origin of Development</b><br>A significant portion of R&D and development is conducted in Europe.</li>
+<li><b>Governance</b><br>The project's governance is based in Europe and aligned with EU values.</li>
+<li><b>Community</b><br>A substantial part of the user and contributor base is European.</li>
+</ul>
+</div>
+<div>
+<ul>
+<li><b>Legal Framework</b><br>Uses OSI-approved licenses compatible with EU law.</li>
+<li><b>Data Handling</b><br>Prioritizes data processing and residency within the EU, fully GDPR compliant.</li>
+<li><b>Ecosystem Contribution</b><br>The maintaining organization actively contributes back to the European ecosystem.</li>
+</ul>
+</div>
+</div>
+
+---
+
+## **From Definition to Action: A New Procurement Principle**
+
+Building on this definition, the report proposes a powerful new policy for public spending:
+
+<div style="border: solid 2px; padding: 15px; margin-top: 24px; text-align: center;">
+<h2>Public Money, Public Code, <br>Open Source First, <u>European Preference</u></h2>
+</div>
+
+This extends the well-known "Public Money, Public Code" initiative. The **"European Preference"** clause ensures that taxpayer-funded software not only remains open, but also **originates from and benefits the European Open Source ecosystem**.
+
+It transforms public procurement from a simple purchase into a strategic investment in our own digital future.
 
 ---
 
@@ -238,13 +269,13 @@ The 70 proposals are organized across five pillars, forming a comprehensive stra
 
 **Objective**: To build a robust and sustainable funding ecosystem for the growth of European Open Source.
 
-**Key Actions**:
-1.  **Create a Centralized Investment Platform (EOSIP)**
-    -   Develop a one-stop-shop platform consolidating information on grants, loans, and venture capital for European Open Source projects.
-2.  **Establish a "European Open Source Brand"**
-    -   Launch a branding initiative to promote the quality, security, and reliability of sovereign European solutions on the global stage.
-3.  **Foster Public-Private Partnerships (PPPs)**
-    -   Incentivize private sector investment in critical Open Source projects through co-investment programs and R&D consortia.
+**Emblematic Actions**:
+1.  **Launch a European OS Investment Platform (EOSIP)**
+    Create a one-stop-shop portal to connect European Open Source projects with grants, venture capital, and other funding opportunities.
+2.  **Build a Strong "European Open Source" Brand**
+    Develop a global brand that signifies quality, security, and alignment with European values, helping our solutions stand out.
+3.  **Establish European Open Source Accelerators**
+    Launch dedicated incubators to help promising projects scale up and compete globally.
 
 ---
 
@@ -252,59 +283,52 @@ The 70 proposals are organized across five pillars, forming a comprehensive stra
 
 **Objective**: To ensure the long-term security, sustainability, and European control of critical Open Source projects.
 
-**Key Actions**:
-1.  **Conduct Proactive Risk & Vulnerability Analysis**
-    -   Partner with EU cybersecurity agencies to assess critical projects and reduce dependency on non-EU components.
-2.  **Align with Existing EU Regulations**
-    -   Provide guidance to help European projects navigate and comply with frameworks like the Cyber Resilience Act (CRA) and GDPR without undue burden.
-3.  **Strengthen European Leadership**
-    -   Establish a **European Open Source Advisory Board** to oversee funding, promote best practices, and ensure critical projects remain under European stewardship.
+**Emblematic Actions**:
+1.  **Form a European Open Source Advisory Council**
+    Establish a high-level body of experts to guide funding, promote best practices, and ensure critical projects remain under European stewardship.
+2.  **Provide Support for Cyber Resilience Act (CRA) Compliance**
+    Offer dedicated resources to help European projects achieve CRA certification, turning compliance into a mark of quality and trust.
+3.  **Promote Active Participation in Governance**
+    Incentivize and support the active involvement of European experts in the decision-making bodies of key international foundations.
 
 ---
 
-# **Part 4: The Added Value & Vision**
+## **The Added Value: Transformative Impact on Key Sectors**
 
-## The Tangible Benefits and a Framework for the Future
-
-This section highlights the concrete benefits of implementing the roadmap across key sectors and introduces a framework for evaluating true sovereignty.
-
----
-
-## **Transformative Impact on Key Sectors**
-
-Adopting European Open Source solutions will unlock significant benefits:
+Implementing this roadmap will unlock concrete benefits across our society:
 
 -   **Public Administration**
-    Enhances security, transparency, and accountability while reducing dependency on non-EU providers and lowering costs.
+    Enhances security, transparency, and accountability while reducing dependency and lowering costs.
 -   **Manufacturing (Industry 4.0)**
-    Enables predictive maintenance, improves interoperability on the factory floor, and fosters a culture of innovation.
+    Enables predictive maintenance, improves interoperability on the factory floor, and fosters innovation.
 -   **Healthcare**
-    Ensures patient data security and privacy, enables interoperability between systems, and accelerates medical research through secure collaboration.
+    Ensures patient data security, enables system interoperability, and accelerates medical research.
 -   **Energy**
-    Supports a greener future by optimizing energy grids, integrating renewables, and reducing the energy consumption of data centers.
+    Supports a greener future by optimizing grids, integrating renewables, and reducing data center energy use.
 
 ---
 
-## **"LOTEC" Criteria for Effective Sovereignty**
+## **A Vision for Europe: A Virtuous Cycle of Sovereignty**
 
-To assess and ensure true digital sovereignty, the report proposes a multi-dimensional evaluation framework (work in progress):
+Implementing this roadmap will create a self-reinforcing cycle:
 
-<div style="font-size: 26px;">
-<ul>
-  <li><b>L - Legal</b>: Immunity from non-EU laws (e.g., CLOUD Act). The supplier and its beneficial owners must be under EU jurisdiction.</li>
-  <li><b>O - Operational</b>: Control of operations (admin, support) by European personnel located in Europe.</li>
-  <li><b>T - Technological</b>: Transparency, interoperability, and reversibility guaranteed by <b>Open Source</b> and open standards.</li>
-  <li><b>E - Economic</b>: Value creation (R&D, jobs) primarily in Europe with fair business models.</li>
-  <li><b>C - Cultural & Ethical</b>: Alignment with European values and diversity.</li>
-</ul>
-</div>
+-   **Sovereign Infrastructure** will give us control over our digital destiny.
+-   **A Thriving Ecosystem** will empower SMEs, create high-skilled jobs, and drive innovation.
+-   **Reduced Dependency** will make our economy more resilient and secure.
+-   **Technology Aligned with Our Values** will ensure that Europe's digital future is open, transparent, and human-centric.
 
 ---
 
 # **Conclusion: A Call to Action**
 
-European digital sovereignty is not a distant goal—it is an urgent necessity that can be achieved through collective, strategic action. **Open Source is Europe's greatest asset in this endeavor.**
+Achieving European digital sovereignty requires the collective support and action of our entire ecosystem—from policymakers and industry leaders to developers and educators. Additional initiatives include:
 
-The time for decisive action is now.
+- The "Cloud Sovereignty Framework" from the Commission
+- Various public procudement initiatives (EU and MS)
+- The EU-STF (European Sovereign Tech Fund) initiative
+- APELL's "Digital Declaration of Independence" (contact me)
+- Etc.
+
+**Let's build our digital future, the Open Source way.**
 
 Get the full report: <https://ec.europa.eu/newsroom/dae/redirection/document/117980>
