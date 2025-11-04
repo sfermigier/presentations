@@ -53,7 +53,7 @@ class:
 header: ""
 -->
 
-![bg left:35%](./images/report.png)
+![bg right:35%](./images/report.png)
 
 # **The Open Source Way to <br>EU Digital Sovereignty &<br> Competitiveness**
 
@@ -111,7 +111,7 @@ This means we must control the entire stack—the underlying hardware and softwa
 
 ## **The Enabler: Why Open Source is the Cornerstone**
 
-Initially (1998-2010) consider mostly as a cheaper alternative, Open Source has become for the last 15 years a fundamental pillar of the technological autonomy Europe seeks.
+Initially (1998-2010) considered mostly as a cheaper alternative, Open Source has become for the last 15 years a fundamental pillar of the technological autonomy Europe seeks.
 
 -   **Autonomy & Reversibility**
     It is the only real escape from vendor lock-in. Full control over the code guarantees the freedom to innovate independently.
@@ -133,7 +133,7 @@ This diagnosis identified **5 critical "gaps"**. From these gaps emerged **70 co
 ## **Gap 1: Standards & Interoperability**
 ### The Challenge of "Open Washing"
 
-**The Problem**: Our ecosystem is fragmented by "standards" that are not genuinely designed to promote interoperability and reversibility, promoted by non-EU players to maintain dominance. This creates vendor lock-in and stifles innovation.
+**The Problem**: Our ecosystem is fragmented by "standards" that are not genuinely designed to ensure interoperability and reversibility, promoted by non-EU players to maintain dominance. This creates vendor lock-in and stifles innovation.
 
 **The Consequence**: A lack of genuine, enforceable interoperability that keeps Europe dependent and divided. Cf. the battle for EIFv2 (2009).
 
@@ -142,7 +142,7 @@ This diagnosis identified **5 critical "gaps"**. From these gaps emerged **70 co
 ## **Gap 2: Financial Viability**
 ### The Peril of Instability
 
-**The Problem**: Many critical European Open Source projects and business rely on sporadic funding, time-limited contracts and volunteer work. They lack resources for security audits, long-term maintenance, whole product development and professional support.
+**The Problem**: Many critical European Open Source projects and businesses rely on sporadic funding, time-limited contracts and volunteer work. They lack resources for security audits, long-term maintenance, whole product development and professional support.
 
 **The Consequence**: Key infrastructure components are unstable, uncompetitive, and at risk of being abandoned or acquired by non-EU interests.
 
@@ -151,7 +151,7 @@ This diagnosis identified **5 critical "gaps"**. From these gaps emerged **70 co
 ## **Gap 3: Market Visibility & Adoption**
 ### The Fight for Recognition
 
-**The Problem**: European solutions are often invisible, drowned out by the dominant marketing narratives of non-EU giants who sow doubt about the viability of Open Source.
+**The Problem**: European Open Source solutions are often invisible, drowned out by the dominant marketing narratives of non-EU giants.
 
 **The Consequence**: Public and private sectors alike default to non-sovereign solutions, not because they are better, but because they are better known.
 
@@ -169,7 +169,7 @@ This diagnosis identified **5 critical "gaps"**. From these gaps emerged **70 co
 ## **Gap 5: Governance & Influence**
 ### The Imbalance of Power
 
-**The Problem**: Europe contributes a vast amount of code to global Open Source projects but exercises little control over their strategic direction, which is often decided in foundations based outside the EU.
+**The Problem**: Europe contributes a vast amount of code to global Open Source projects (more than the US!) but exercises too little control over their strategic direction, which is often decided in foundations based outside the EU.
 
 **The Consequence**: Key technological dependencies remain, as the roadmaps of critical software are not aligned with European strategic interests.
 
@@ -224,10 +224,10 @@ Our 70 proposals are organized into a clear, actionable strategy built on five p
 **Emblematic Actions**:
 1.  **Mandate "Public Money, Public Code, European Preference"**
     Adopt this powerful principle to ensure that taxpayer-funded software originates from, and benefits, the European ecosystem.
-2.  **Create a Public Directory of Sovereign Solutions**
-    Build a trusted, curated repository of recommended European Open Source solutions to guide public procurement officers.
-3.  **Define Clear Criteria for "European Open Source"**
+2.  **Define Clear Criteria for "European Open Source"**
     Establish a robust definition to prevent misuse and ensure public funds support genuinely sovereign projects.
+3.  **Create a Public Directory of Sovereign Solutions**
+    Build a trusted, curated repository of recommended European Open Source solutions to guide public procurement officers.
 
 ---
 
