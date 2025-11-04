@@ -84,15 +84,14 @@ header: ""
 
 ---
 
-![bg right:35%](./images/asteres.png)
+![bg right:30%](./images/asteres.png)
 
 ## **The Strategic Context: A Digital Crossroads**
 
 Europe's digital infrastructure is increasingly built on technologies developed and controlled outside our borders. What was considered by many a merely technical issue has now become a major strategic vulnerability.
 
 This dependency creates significant risks for our:
--   **Economic Autonomy**: Vulnerability to non-EU market dominance.
-  - *80% of total spending on cloud software and services for business use in Europe went to US companies, representing a volume of €265 billion (source: Asteres Report)*
+-   **Economic Autonomy**: Vulnerability to non-EU market dominance (€265 billion / year for cloud software and services from EU->US) .
 -   **Data Security**: Exposure to extraterritorial laws like the FISA and CLOUD Act, exposing personal information (cf. GDPR) and strategic / corporate information and secrets.
 -   **Strategic Independence**: A diminished ability to innovate according to our own values.
 
@@ -185,6 +184,8 @@ Our 70 proposals are organized into a clear, actionable strategy built on five p
 3.  **Public Procurement**
 4.  **Growth and Investment**
 5.  **Governance**
+
+(Origin, in large part: previous proposals and reports from APELL, CNLL, OSBA, paliamentary reports, European projects, etc.)
 
 ---
 
