@@ -17,6 +17,11 @@ style: |
   .columns > ul, .columns > ol {
     margin-top: 0;
   }
+  .columns-3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+  }
   .logo-footer {
     display: flex;
     align-items: center;
@@ -61,7 +66,10 @@ header: ""
 
 <div style="text-align: center; margin-top: 32px;">
 <i>Based on the July 2025 Report by the European Alliance for Industrial Data, Edge and Cloud</i>
+<p style="text-align: center;">Stefane Fermigier, Founder & CEO, Abilian SAS</p>
 </div>
+
+
 
 ---
 
@@ -79,7 +87,7 @@ header: ""
 - Open Source advocate since 1998
 - Open Source entrepreneur since 2000 (Nuxeo -> Abilian)
 - Co-chair of CNLL, APELL
-- Co-founder of EuroStack Initiative Foundation
+- Co-founder of the EuroStack Initiative Foundation
 - Member of the European Alliance for Industrial Data, Edge and Cloud, and co-author of the report
 
 ---
@@ -91,7 +99,7 @@ header: ""
 Europe's digital infrastructure is increasingly built on technologies developed and controlled outside our borders. What was considered by many a merely technical issue has now become a major strategic vulnerability.
 
 This dependency creates significant risks for our:
--   **Economic Autonomy**: Vulnerability to non-EU market dominance (€265 billion / year for cloud software and services from EU->US) .
+-   **Economic Autonomy**: Vulnerability to non-EU market dominance (€265 billion / year just for B2B cloud software and services from EU->US) .
 -   **Data Security**: Exposure to extraterritorial laws like the FISA and CLOUD Act, exposing personal information (cf. GDPR) and strategic / corporate information and secrets.
 -   **Strategic Independence**: A diminished ability to innovate according to our own values.
 
@@ -99,7 +107,7 @@ This dependency creates significant risks for our:
 
 ## **Defining Our Goal: Effective Digital Sovereignty**
 
-To be truly sovereign, we need more than just control over data. The report starts from a seimple and clear formula:
+To be truly sovereign, we need more than just control over data. The report starts from a simple and clear formula:
 
 <div style="border: solid 1px; padding: 15px; margin-top: 24px; text-align: center;">
 <b>Digital Sovereignty = Data Sovereignty + Technological Autonomy</b>
@@ -200,6 +208,8 @@ Our 70 proposals are organized into a clear, actionable strategy built on five p
     Develop European-governed specifications to fight "open washing" and ensure genuine interoperability.
 3.  **Launch Large-Scale Demonstration Projects**
     Co-invest in pilot projects that prove the technical and economic viability of sovereign stacks in key sectors.
+4.  **Develop and Promote EU Reference Implementations**
+    To showcase excellence and provide practical blueprints for adoption.
 
 ---
 
@@ -210,10 +220,12 @@ Our 70 proposals are organized into a clear, actionable strategy built on five p
 **Emblematic Actions**:
 1.  **Establish European "Centres of Excellence"**
     Support universities in becoming hubs for advanced research, training, and innovation in sovereign open source technologies.
-2.  **Launch Pan-European Certifications**
+2.  **Launch Pan-European Training Programs and Certifications**
     Create industry-recognized certifications for European Open Source skills, making them a gold standard for professionals and employers.
 3.  **Integrate Open Source into STEM Curricula**
     Embed open source principles and digital sovereignty concepts into education from secondary school onwards.
+4.  **Invest in Reskilling and Upskilling Initiatives**
+    To adapt the existing workforce to meet new technological demands.
 
 ---
 
@@ -226,14 +238,16 @@ Our 70 proposals are organized into a clear, actionable strategy built on five p
     Adopt this powerful principle to ensure that taxpayer-funded software originates from, and benefits, the European ecosystem.
 2.  **Define Clear Criteria for "European Open Source"**
     Establish a robust definition to prevent misuse and ensure public funds support genuinely sovereign projects.
-3.  **Create a Public Directory of Sovereign Solutions**
-    Build a trusted, curated repository of recommended European Open Source solutions to guide public procurement officers.
+3.  **Support Evaluation and Guidance for EU Open Source Solutions**
+    To empower public bodies to make informed, sovereign choices.
+4.  **Leverage Pre-Commercial Procurement for EU Open Source Development**
+    To co-develop innovative solutions tailored to Europe's public sector needs.
 
 ---
 
 ## **A Cornerstone Proposal: Defining "European Open Source"**
 
-To make policies like "European Preference" effective, we must first have a clear, robust definition to prevent "open washing".
+To make policies like "European Preference" effective, we must first have a clear, robust definition to prevent "open washing" and "sovereign washing".
 
 **Proposed Criteria for a "European Open Source" Solution:**
 
@@ -249,7 +263,7 @@ To make policies like "European Preference" effective, we must first have a clea
 <ul>
 <li><b>Legal Framework</b><br>Uses OSI-approved licenses compatible with EU law.</li>
 <li><b>Data Handling</b><br>Prioritizes data processing and residency within the EU, in compliance with EU laws and directives (like GDPR, but non only).</li>
-<li><b>Ecosystem Contribution</b><br>The maintaining organization actively contributes back to the European ecosystem.</li>
+<li><b>Ecosystem Contribution</b><br>The maintaining organization actively contributes back to EU ecosystem.</li>
 </ul>
 </div>
 </div>
@@ -261,7 +275,7 @@ To make policies like "European Preference" effective, we must first have a clea
 Building on this definition, the report proposes a powerful new policy for public spending:
 
 <div style="border: solid 2px; padding: 15px; margin-top: 24px; text-align: center;">
-<h2>Public Money, Public Code, <br>Open Source First, <u>European Preference</u></h2>
+<h2>Public Money, Public Code, <br><u>Open Source First, European Preference</u></h2>
 </div>
 
 This extends the well-known "Public Money, Public Code" initiative. The **"European Preference"** clause ensures that taxpayer-funded software not only remains open, but also **originates from and benefits the European Open Source ecosystem**.
@@ -281,6 +295,8 @@ It transforms public procurement from a simple purchase into a strategic investm
     Create a one-stop-shop portal to connect European Open Source projects with grants, venture capital, and other funding opportunities.
 3.  **Establish European Open Source Accelerators**
     Launch dedicated incubators to help promising projects scale up and compete globally.
+4.  **Support Public-Private Partnerships to Drive Innovation**
+    To pool resources and expertise for high-impact projects.
 
 ---
 
@@ -291,10 +307,12 @@ It transforms public procurement from a simple purchase into a strategic investm
 **Emblematic Actions**:
 1.  **Form a European Open Source Advisory Council**
     Establish a high-level body of experts to guide funding, promote best practices, and ensure critical projects remain under European stewardship.
-2.  **Provide Support for Cyber Resilience Act (CRA) Compliance**
-    Offer dedicated resources to help European projects achieve CRA certification, turning compliance into a mark of quality and trust.
+2.  **Align with Existing Compliance and Data Sovereignty Standards**
+    Ex.: Offer dedicated resources to help European projects achieve CRA certification, turning compliance into a mark of quality and trust.
 3.  **Promote Active Participation in Governance**
     Incentivize and support the active involvement of European experts in the decision-making bodies of key international foundations.
+4.   **Ensure Long-Term Sustainability for Critical European Projects**
+    To provide stable stewardship for foundational technologies.
 
 ---
 
@@ -310,6 +328,38 @@ Implementing this roadmap will unlock concrete benefits across our society:
     Ensures patient data security, enables system interoperability, and accelerates medical research.
 -   **Energy**
     Supports a greener future by optimizing grids, integrating renewables, and reducing data center energy use.
+
+---
+
+## **The Business Case for European Companies**
+
+<div class="columns-3" style="margin-top: 16px;">
+
+<div>
+<h4>1. Growth & Profitability</h4>
+<ul>
+  <li><b>Use Trust as a Market Differentiator:</b> Win premium business with a "GDPR-native" guarantee.</li>
+  <li><b>Unlock New Market Opportunities:</b> Align with EU policy to win public sector contracts.</li>
+</ul>
+</div>
+
+<div>
+<h4>2. Operational Efficiency & Cost Reduction</h4>
+<ul>
+  <li><b>Avoid Vendor Lock-In:</b> Control Total Cost of Ownership (TCO) with open standards.</li>
+  <li><b>Reduce the Compliance Burden:</b> Eliminate the cost of managing international data transfers.</li>
+</ul>
+</div>
+
+<div>
+<h4>3. Strategic Resilience & Risk Mitigation</h4>
+<ul>
+  <li><b>Protect Intellectual Property:</b> Insulate your business from extra-territorial laws like FISA/CLOUD Act.</li>
+  <li><b>Secure the Digital Supply Chain:</b> Reduce geopolitical risk and ensure business continuity.</li>
+</ul>
+</div>
+
+</div>
 
 ---
 
